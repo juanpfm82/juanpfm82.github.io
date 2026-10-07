@@ -1,0 +1,7 @@
+# Redirecciones de Cloudflare Pages (origen  destino  código)
+/testers/index.html   /testers/   301
+/privacidad           /privacy/   301
+/privacidad/          /privacy/   301
+# Si cambias la URL del juego de estrategia, descomenta estas dos líneas:
+# /apps/europa-strategy/              /apps/europe-dominion/              301
+# /apps/europa-strategy/privacidad/   /apps/europe-dominion/privacidad/   301
